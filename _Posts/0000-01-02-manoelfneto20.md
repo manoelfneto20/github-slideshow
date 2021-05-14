@@ -2,5 +2,5 @@
  layout : título do slide
  : " Bem-vindo ao nosso segundo slide! "
 ---
-Seu texto 
+Olá, estou mergulhando no GitHub, meio perdido ainda, mas vamos nessa!
 Use a seta para a esquerda para voltar!
